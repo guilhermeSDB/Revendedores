@@ -4,6 +4,7 @@ Documentação do Sistema Revendedores.
 
 Software para revendedores (Em construção).
 
+Design by Guilherme S.
 
 ### Objetivo: Ajudar comerciantes autônomos que trabalham na área de Revenda de Produtos Nacionais ou Importados.
 
