@@ -11,6 +11,10 @@ Versão do sistema - Alfa 1.0
 
 O sistema é codigo aberto e livre para alteraçoes, Gratuito e sempre sera!
 
+## DashBoard(Em Construção)
+
+<a href="https://ibb.co/dJ8cyNV"><img src="https://i.ibb.co/2YG6BzC/Dashboard.png" alt="Dashboard" border="0"></a>
+
 # 1.Funções do Sistema
 
 ## 1.1.Login/Cadastro
@@ -85,11 +89,11 @@ O sistema ira mostrar:
 
 -Valor total com desconto.
 
-## 1.7.Rastreio
+## 1.7.Rastreio (Em construção)
 
 ### -Cadastrar produto que está em trânsito.
 
-## 1.8.Clientes
+## 1.8.Clientes (Em construção)
 
 ### -Cadastrar cliente.
 
@@ -99,13 +103,15 @@ O sistema ira mostrar:
 
 ### -Excluir cliente.
 
-## 1.9.Configurações
+## 1.9.Configurações (Em construção)
 
 ### -Editar usuários e Opções.
 
 <a href="https://ibb.co/4dxxRH1"><img src="https://i.ibb.co/rsJJ2Vd/Configura-oes.png" alt="Configura-oes" border="0"></a>
 
 ## 2.APIs Utilizado
+
+### -Localizaçao do IP da provedora de Internet do usuario.
 
 ### -Clima e tempo
 
