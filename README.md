@@ -17,11 +17,10 @@ O sistema é codigo aberto e livre para alteraçoes, Gratuito e sempre sera!
 
 ### -Cadastro de Usuário
 
-<p align="center">
-<img src="https://i.ibb.co/xCvx7hL/Criar-conta-passo-1.png" align=center title="Criar conta passo 1">
+<a href="https://i.ibb.co/xCvx7hL/Criar-conta-passo-1.png" title="Criar conta passo 1">
 <a href="https://ibb.co/gZVsm4v"><img src="https://i.ibb.co/ZzmyG2H/Criar-conta-passo-2.png" alt="Criar-conta-passo-2" border="0"></a>
 <a href="https://ibb.co/7yf2Hx6"><img src="https://i.ibb.co/Jk15NWM/Criar-conta-terminado-com-sucesso.png" alt="Criar-conta-terminado-com-sucesso" border="0"></a>
-</p>
+
 
 -Autenticação de Usuário (Nao implementado)
 
